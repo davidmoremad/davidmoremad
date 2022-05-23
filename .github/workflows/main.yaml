@@ -17,3 +17,4 @@ jobs:
         with:
           max_post_count: "3"
           feed_list: "https://medium.com/feed/@davidmoremad"
+          template: "$newline - $randomEmoji(💯,🔥,🚀,🍺) [$title]($url)"

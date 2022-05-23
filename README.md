@@ -1,15 +1,18 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Welcome to my space, I hope you find it all neat and tidy.
-
 My name is David Amrani. I have been in cybersecurity since 2014,
-especially in strengthening and automating cloud security processes 
-and continuous integration. I try to make security a little bit less 
+especially in strengthening and automating cloud security processes
+and continuous integration. I try to make security a little bit less
 difficult and boring for all of us to work more comfortable.
 
 I really have a passion for teaching and I like to participate in universities,
-bootcamps or relaxed talks to bring engineering closer to those who are curious. 
-I love to chat, feel free to contact me if you feel interested.
+bootcamps or relaxed talks to bring engineering closer to those who are curious.
+I love to chat, feel free to contact me if you feel interested.  
+
+I also like to write on my Medium blog about 
+[#Hacking](https://davidmoremad.medium.com/list/hacking-1a6c8e8ee8e8),
+[#NewTechnologies](https://medium.com/@davidmoremad/list/new-technologies-484f37bcd41d),
+[#CloudSecurity](https://davidmoremad.medium.com/list/cloud-security-bd7fb6a35f82) ...
 
 <a href="https://medium.com/@davidmoremad" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/david-amrani" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
