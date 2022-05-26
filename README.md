@@ -14,11 +14,14 @@ I also like to write on my Medium blog about
 [#NewTechnologies](https://medium.com/@davidmoremad/list/new-technologies-484f37bcd41d),
 [#CloudSecurity](https://davidmoremad.medium.com/list/cloud-security-bd7fb6a35f82) ...
 
-<a href="https://medium.com/@davidmoremad" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/david-amrani" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/davidmoremad" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+## About me
 
-</p>
+* 💼 Currently working as Secdevops / Cloud Security
+* 🎤 Usual Speaker at Universities & Bootcamps (I do like mentoring)
+* 💡 Studing & Interested on Automation & Artificial Intelligence
+* ☕ Love to talk about Philosophy, Technology, Hacking, Cloud...
+* 🌍 Feel connected to the World
+
 
 ## Latest posts
 
@@ -28,3 +31,22 @@ I also like to write on my Medium blog about
  - 🍺 [Cybersecurity — Job of the Present &amp; Future](https://medium.com/geekculture/cybersecurity-job-of-the-present-future-9c4d2ac11d93?source=rss-1cc1eb754cc6------2)
  - 🚀 [Cracking Passwords is Faster than Ever Before](https://medium.com/geekculture/cracking-passwords-is-faster-than-ever-before-f6ad558e9e08?source=rss-1cc1eb754cc6------2)
  - 🔥 [Telework — Super Salaries, Sustainability &amp; Startups](https://medium.com/geekculture/telework-super-salaries-sustainability-startups-aff5cc3f62e5?source=rss-1cc1eb754cc6------2)<!-- BLOG-POST-LIST:END -->
+
+
+#
+
+<p align="center">
+<i>
+"We live our life in our own way,<br>
+never really listened to what they say. <br>
+We are the true believers" — Bouncing Souls
+</i>
+
+<br>
+<br>
+
+<a href="https://medium.com/@davidmoremad" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/david-amrani" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/davidmoremad" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+
+</p> 
