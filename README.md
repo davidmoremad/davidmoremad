@@ -15,9 +15,7 @@ I also like to write on my Medium blog about
 
 ## About me
 
-<p align="right">
 <img align="right" width="200" src="travolta.gif">
-</p>
 
 * 💼 Currently working as Secdevops / Cloud Security
 * 🎤 Usual Speaker at Universities & Bootcamps (I do like mentoring)
