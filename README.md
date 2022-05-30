@@ -15,7 +15,7 @@ I also like to write on my Medium blog about
 
 ## About me
 
-<img align="right" height="190" src="party_working.png">
+<img align="right" height="175" src="party_working.png">
 
 * 💼 Currently working as Secdevops / Cloud Security
 * 🎤 Usual Speaker at Universities & Bootcamps (I do like mentoring)
