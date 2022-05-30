@@ -35,5 +35,5 @@ jobs:
       - name: Lint Yaml files
         run: |
           for changed_file in ${{ steps.yamlfiles.outputs.all_changed_files }}; do
-            {extends: relaxed, rules: {line-length: {max: 120},indentation: {indent-sequences: whatever},new-lines: disable,new-line-at-end-of-file: 'disable'}} ${changed_file} -f colored
+            yamllint . -d {extends: relaxed, rules: {line-length: {max: 120},indentation: {indent-sequences: whatever},new-lines: disable,new-line-at-end-of-file: 'disable'}} ${changed_file} -f colored
           done
