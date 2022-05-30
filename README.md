@@ -15,7 +15,7 @@ I also like to write on my Medium blog about
 
 ## About me
 
-<p align="center">
+<p align="right">
 <img align="right" width="200" src="travolta.gif">
 </p>
 
