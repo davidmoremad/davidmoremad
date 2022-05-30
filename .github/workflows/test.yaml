@@ -23,13 +23,17 @@ jobs:
         with:
           python-version: '3.x'
       - name: List changed files
-        id: files
-        uses: jitterbit/get-changed-files@v1
+        id: yamlfiles
+        uses: tj-actions/changed-files@v21
+        with:
+          files: |
+            *.yaml
+            *.yml
       - name: Install Yamllint
         run: |
           pip install --user yamllint
       - name: Lint Yaml files
         run: |
-          for changed_file in ${{ steps.files.outputs.all }}; do
+          for changed_file in ${{ steps.yamlfiles.outputs.all_changed_files }}; do
             yamllint ${changed_file} --no-warnings -f colored
           done
