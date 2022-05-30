@@ -15,7 +15,7 @@ I also like to write on my Medium blog about
 
 ## About me
 
-<img align="right" width="400" src="https://octodex.github.com/images/pythocat.png">
+<img align="right" width="300" src="https://octodex.github.com/images/pythocat.png">
 
 * 💼 Currently working as Secdevops / Cloud Security
 * 🎤 Usual Speaker at Universities & Bootcamps (I do like mentoring)
