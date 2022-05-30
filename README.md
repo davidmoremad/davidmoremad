@@ -16,7 +16,7 @@ I also like to write on my Medium blog about
 ## About me
 
 <p align="center">
-<img align="right" width="300" src="travolta.gif">
+<img align="right" width="200" src="travolta.gif">
 </p>
 
 * 💼 Currently working as Secdevops / Cloud Security
