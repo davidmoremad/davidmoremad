@@ -15,6 +15,8 @@ I also like to write on my Medium blog about
 
 ## About me
 
+<img align="right" src="https://octodex.github.com/images/welcometocat.png">
+
 * 💼 Currently working as Secdevops / Cloud Security
 * 🎤 Usual Speaker at Universities & Bootcamps (I do like mentoring)
 * 💡 Studing & Interested on Automation & Artificial Intelligence
