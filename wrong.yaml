@@ -18,18 +18,18 @@ jobs:
   validate-yaml:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-    - uses: actions/setup-python@v3
-      with:
-        python-version: '3.x'
-    - name: List changed files
-      id: files
-      uses: jitterbit/get-changed-files@v1
-    - name: Install Yamllint
-      run: |
-        pip install --user yamllint
-    - name: Lint Yaml files
-      run: |
-        for changed_file in ${{ steps.files.outputs.all }}; do
-          yamllint ${changed_file} --no-warnings -f colored
-        done
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+      - name: List changed files
+        id: files
+        uses: jitterbit/get-changed-files@v1
+      - name: Install Yamllint
+        run: |
+          pip install --user yamllint
+      - name: Lint Yaml files
+        run: |
+          for changed_file in ${{ steps.files.outputs.all }}; do
+            yamllint ${changed_file} --no-warnings -f colored
+          done
