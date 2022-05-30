@@ -1,4 +1,4 @@
-name: Pull Requests
+name: Build app
 
 on:
   pull_request:
@@ -6,7 +6,7 @@ on:
 
 
 jobs:
-  lint-pr-title:
+  mystep-one:
     runs-on: ubuntu-latest
     steps:
       - uses: deepakputhraya/action-pr-title@master
@@ -35,5 +35,5 @@ jobs:
       - name: Lint Yaml files
         run: |
           for changed_file in ${{ steps.yamlfiles.outputs.all_changed_files }}; do
-            yamllint ${changed_file} --no-warnings -f colored
+            {extends: relaxed, rules: {line-length: {max: 120},indentation: {indent-sequences: whatever},new-lines: disable,new-line-at-end-of-file: 'disable'}} ${changed_file} -f colored
           done
