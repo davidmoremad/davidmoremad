@@ -1,0 +1,38 @@
+name: Testing
+
+on:
+  workflow_dispatch:
+    
+
+jobs:
+  build:
+    name: Build on Python${{ matrix.python }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: |
+          mkdir dist
+          echo "Hello World" > dist/binary.whl
+          echo "Bye World" > dist/source.tar.gz
+      - name: Upload
+        uses: actions/upload-artifact@v3
+        with:
+          path: dist/*
+  
+  download1:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/download-artifact@v3
+      - name: Display structure of downloaded files
+        run: ls -R
+  
+  download2:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/download-artifact@v3
+        with:
+          path: dist/
+      - name: Display structure of downloaded files
+        run: ls -R ./dist/
