@@ -29,6 +29,8 @@ jobs:
       - run: |
           mkdir dist/
           mv artifact/* dist/
+          ls -la
+          ls -la dist/
   
   download2:
     needs: [upload]
@@ -38,7 +40,8 @@ jobs:
       - uses: actions/download-artifact@v3
         with:
           path: dist/
-      - name: Display structure of downloaded files
-        run: ls -R ./dist/
       - name: 'Echo download path'
         run: echo ${{steps.download.outputs.download-path}}
+      - run: |
+          ls -la
+          ls -la dist/
