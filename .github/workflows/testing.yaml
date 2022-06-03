@@ -6,7 +6,7 @@ on:
     
 
 jobs:
-  build:
+  upload:
     name: Build on Python${{ matrix.python }}
     runs-on: ubuntu-latest
     steps:
@@ -21,6 +21,7 @@ jobs:
           path: dist/*
   
   download1:
+    needs: [upload]
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -29,6 +30,7 @@ jobs:
         run: ls -R
   
   download2:
+    needs: [upload]
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
