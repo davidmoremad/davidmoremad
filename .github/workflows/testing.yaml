@@ -7,7 +7,7 @@ on:
 
 jobs:
   upload:
-    name: Build on Python${{ matrix.python }}
+    name: Uploading file
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -26,8 +26,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: actions/download-artifact@v3
-      - name: Display structure of downloaded files
-        run: ls -R
+      - run: |
+          mkdir dist/
+          mv artifact/* dist/
   
   download2:
     needs: [upload]
@@ -39,3 +40,5 @@ jobs:
           path: dist/
       - name: Display structure of downloaded files
         run: ls -R ./dist/
+      - name: 'Echo download path'
+        run: echo ${{steps.download.outputs.download-path}}
