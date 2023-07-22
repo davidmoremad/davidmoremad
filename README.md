@@ -36,9 +36,10 @@ I also like to write on my Medium blog about
 
 <p align="center">
 <i>
-"We live our life in our own way,<br>
-never really listened to what they say. <br>
-We are the true believers" — Bouncing Souls
+"I've met some people along the way,<br/>
+some of them shine, some of them burn,<br/>
+from all these people I try to learn,<br/>
+For good or bad I've known them all."
 </i>
 
 <br>
