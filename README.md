@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm David Amrani. Working in cybersecurity since 2014 within different 
-teams as QA, IT or Secops and **automating cloud security processes**. 
-
-I like to make cybersecurity a little easier and more fun for everyone,
-and so I also often give talks about security and innovation.
+I'm David Amrani. Working in cybersecurity since 2014 within different  
+teams as QA, IT or Secops and **automating cloud security processes**.  
+  
+I like to make cybersecurity a little easier and more fun for everyone,  
+and so I also often give talks about security and innovation.  
 
 I also like to write on my Medium blog about 
 [#Hacking](https://davidmoremad.medium.com/list/hacking-1a6c8e8ee8e8),
