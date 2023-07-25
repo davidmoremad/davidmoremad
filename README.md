@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-My name is David Amrani. I've been working in cybersecurity since 2014,
-especially in strengthening and **automating cloud security processes**
-and continuous integration. I like to make cybersecurity a little bit 
-easier and fun for all of us. On my daily tasks, I'm working with infras
-such as AWS, Azure, Kubernetes and working with Python, Bash, Powershell,
-Jenkins, Jira, Github. In the past I've worked as a QA (Quality Assurante)
-and Pentester, and that's why I am now automating cybersecurity stages.
+I'm David Amrani. Working in cybersecurity since 2014 within different 
+teams as QA, IT or Secops and **automating cloud security processes**. 
+
+I like to make cybersecurity a little easier and more fun for everyone,
+and so I also often give talks about security and innovation.
 
 I also like to write on my Medium blog about 
 [#Hacking](https://davidmoremad.medium.com/list/hacking-1a6c8e8ee8e8),
@@ -17,11 +15,10 @@ I also like to write on my Medium blog about
 
 <img align="right" height="175" src="party_working.png">
 
-* 💼 Currently working as Secdevops / Cloud Security
-* 🎤 Usual Speaker at Universities & Bootcamps (I do like mentoring)
-* 💡 Studing & Interested on Automation & Artificial Intelligence
-* ☕ Love to talk about Philosophy, Technology, Hacking, Cloud...
-* 🌍 Feel connected to the World
+* 💼 Working as Secdevops / Cloud Security
+* 🎤 Speaker at Universities & Bootcamps
+* 📚 Reading about AI, Philosophy & Ethics
+* 🩵 Travel, Snowboard & Beer-talks
 
 ## Latest posts
 
